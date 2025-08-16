@@ -1,20 +1,23 @@
- 🎮 Tic-Tac-Toe Game
+# ​ Tic-Tac-Toe Game
 
-A fun and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.  
-Play against a friend, track winners, and restart anytime with the **New Game** or **Restart** buttons.
+A fun, interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **JavaScript**.  
+Features include:
 
- ✨ Features
-- Two-player turn-based gameplay
-- Detects winners automatically
-- Shows tie message when all boxes are filled
-- Restart or start a new game anytime
-- Clean and responsive design
+- 2-player turn-based gameplay (X and O)
+- Automatic winner detection
+- Tie (draw) detection when all cells are filled
+- Reset and New Game options in a clean, responsive design
 
-🛠️ Tech Stack
-HTML – structure
-CSS – styling
-JavaScript – game logic
+##  Demo
 
+Open `index.html` in your browser to start playing.  
+Or [see it live](https://YOUR-USERNAME.github.io/Tic-Tac-Toe/) via GitHub Pages!
 
-  
+---
 
+##  How to Clone & Run It
+
+```bash
+git clone https://github.com/kanudev-py/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
+# Open index.html in your browser
